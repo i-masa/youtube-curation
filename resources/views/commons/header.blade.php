@@ -5,7 +5,7 @@
         <a class="navbar-brand" href="/">YouTube-Curation</a>
         
         <botton type="botton" class="navbar-toggler" data-toggle="collapse" data-target="#navbar">
-            <span class="navbar-toggle-icon"></span>
+            <span class="navbar-toggler-icon"></span>
         </botton>
         
         <div class="collapse navbar-collapse" id="navbar">
